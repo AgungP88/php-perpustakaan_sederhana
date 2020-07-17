@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.sidebar {
+  margin: 0;
+  padding-left: 0px;
+  padding-top: 20px;
+  width: 220px;
+  background-color: #171515;
+  position: fixed;
+  height: 100%;
+  overflow-x: : hidden ;
+
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+
+.sidebar a:hover, .dropdown-btn:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+  margin-left: 50px;
+
+}
+
+.a{
+  text-align: left;
+  font-size: 20px;
+  margin-left: 40px;
+}
+
+.tengah{
+  margin-left: 220px;
+}
+.judul{
+  color: white;
+}
